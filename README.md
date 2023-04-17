@@ -1,6 +1,6 @@
-### Hi there ![wave](https://user-images.githubusercontent.com/125153189/232493501-3c51bc52-330d-4343-a284-659a624cf022.gif) I am Nick
+### Hi there <img src="https://user-images.githubusercontent.com/125153189/232493501-3c51bc52-330d-4343-a284-659a624cf022.gif" width="44"> I am Nick
 
-<img src="https://user-images.githubusercontent.com/125153189/232493501-3c51bc52-330d-4343-a284-659a624cf022.gif" width="48">
+
 👀 **About Me in 30 secs:** 
 
  - Passioned about Data Analysis and strive for new knowledge
