@@ -1,4 +1,4 @@
-### Hi there <img src="https://user-images.githubusercontent.com/125153189/232493501-3c51bc52-330d-4343-a284-659a624cf022.gif" width="44"> I am Nick
+### Hi there <img src="https://user-images.githubusercontent.com/125153189/232493501-3c51bc52-330d-4343-a284-659a624cf022.gif" width="40"> I am Nick
 
 
 👀 **About Me in 30 secs:** 
