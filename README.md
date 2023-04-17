@@ -26,10 +26,10 @@
  
  
 🐍 **Projects with Python:**
- - Biodiversity in U.S. National Parks [Click HERE](https://github.com/nefedovnd/Biodiversity_in_US_national_parks)
+ - Biodiversity in U.S. National Parks [Click HERE](https://github.com/nefedovnd/Biodiversity_in_US_national_parks)  
    *Final portfolio project of Codecademy Data Science course.*
 
- - Life expectancy and GDP: [Click HERE](https://github.com/nefedovnd/Life_expectancy_and_GDP)
+ - Life expectancy and GDP: [Click HERE](https://github.com/nefedovnd/Life_expectancy_and_GDP). 
    *Second portfolio project of Codecademy Data Science course.*
 
  - U.S. medical insurance costs analysis: [Click HERE](https://github.com/nefedovnd/US_medical_insurance_costs)
