@@ -1,4 +1,4 @@
-### Hi there ![wave](https://user-images.githubusercontent.com/125153189/232493501-3c51bc52-330d-4343-a284-659a624cf022.gif =50x50) I am Nick
+### Hi there ![wave](https://user-images.githubusercontent.com/125153189/232493501-3c51bc52-330d-4343-a284-659a624cf022.gif) I am Nick
 
 
 👀 **About Me in 30 secs:** 
