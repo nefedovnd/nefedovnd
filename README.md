@@ -9,10 +9,10 @@
  - Professionally experienced in financial control and organization optimization data-analysis
 
  - Practical skills in Data Analysis, Data Cleaning and Wrangling, Data Visualization. 
-   
-   
- 
- 
+
+
+
+
 💡**Skills:**
 
  - Python
@@ -34,6 +34,9 @@
 
  - U.S. medical insurance costs analysis: [Click HERE](https://github.com/nefedovnd/US_medical_insurance_costs)
    *First portfolio project of Codecademy Data Science course.* 
+
+
+
 
 
 
