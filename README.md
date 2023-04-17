@@ -20,7 +20,7 @@
  - Bash  
   
 🐍 **Projects with Python:**
- - Biodiversity in U.S. National Parks [see](https://github.com/nefedovnd/Biodiversity_in_US_national_parks)  
+ - Biodiversity in U.S. National Parks: [see](https://github.com/nefedovnd/Biodiversity_in_US_national_parks)  
    *Final portfolio project of Codecademy Data Science course.*
 
  - Life expectancy and GDP: [see](https://github.com/nefedovnd/Life_expectancy_and_GDP)   
