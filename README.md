@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Nick
 
 
+
 👀 **About Me in 30 secs** 👀
 
  - Passioned about Data Analysis and strive for new knowledge
@@ -8,6 +9,7 @@
  - Professionally experienced in financial control and organization optimization data-analysis
 
  - Practical skills in Data Analysis, Data Cleaning and Wrangling, Data Visualization
+ 
  
  
 💡**Skills**💡:
@@ -18,7 +20,9 @@
  - Google Sheets
  - Bash
  
-🐍 **Projects with Python**
+ 
+ 
+🐍 **Projects with Python:**
 Biodiversity in U.S. National Parks [Click HERE](https://github.com/nefedovnd/Biodiversity_in_US_national_parks)
 *Final portfolio project of Codecademy Data Science course.*
 
@@ -28,7 +32,9 @@ Life expectancy and GDP: [Click HERE](https://github.com/nefedovnd/Life_expectan
 U.S. medical insurance costs analysis: [Click HERE](https://github.com/nefedovnd/US_medical_insurance_costs)
 *First portfolio project of Codecademy Data Science course.* 
 
-📚 **Courses and Certifications**
+
+
+📚 **Courses and Certifications:**
 
 Data Science Foundations Skill Path - Codecademy
 [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/738a7262ff2b4a49b062c25482dc2549)
