@@ -2,7 +2,7 @@
 
 
 
-👀 **About Me in 30 secs** 👀
+👀 **About Me in 30 secs:** 
 
  - Passioned about Data Analysis and strive for new knowledge
 
@@ -12,7 +12,7 @@
  
  
  
-💡**Skills**💡:
+💡**Skills:**
 
  - Python
  - SQL
