@@ -38,8 +38,6 @@
 
 
 
-
-
 📚 **Courses and Certifications:**
 
  - Data Science Foundations Skill Path - Codecademy
@@ -51,8 +49,8 @@
  - Learn Intermediate Python 3: Functions, Namespaces, and Scope Course - Codecademy
    [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/15702a4b792847e1a90f59e2ecac7a97)
 
-Learn the Command Line Course - Codecademy
-[certificate](https://www.codecademy.com/profiles/nefedovn/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
+ - Learn the Command Line Course - Codecademy
+   [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
 
 
 
