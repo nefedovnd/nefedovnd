@@ -8,8 +8,9 @@
 
  - Professionally experienced in financial control and organization optimization data-analysis
 
- - Practical skills in Data Analysis, Data Cleaning and Wrangling, Data Visualization
- 
+ - Practical skills in Data Analysis, Data Cleaning and Wrangling, Data Visualization. 
+   
+   
  
  
 💡**Skills:**
@@ -18,7 +19,9 @@
  - SQL
  - Microsoft Excel
  - Google Sheets
- - Bash
+ - Bash  
+  
+  
  
  
  
