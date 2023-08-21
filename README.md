@@ -16,7 +16,8 @@
  - SQL
  - Microsoft Excel
  - Google Sheets
- - Bash  
+ - Bash
+ - Tableau
   
 🐍 **Projects with Python:**
  - Biodiversity in U.S. National Parks: [see](https://github.com/nefedovnd/Biodiversity_in_US_national_parks)  
