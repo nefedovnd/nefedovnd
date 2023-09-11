@@ -32,17 +32,36 @@
 
 📚 **Courses and Certifications:**
 
- - Data Science Foundations Skill Path - Codecademy  
+ - **Data Science** Foundations Skill Path - Codecademy  
    [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/738a7262ff2b4a49b062c25482dc2549)
 
- - How to Clean Data with Python Course - Codecademy  
-   [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/e773a003314c1be60da8388a90a77e78)
-
- - Learn Intermediate Python 3: Functions, Namespaces, and Scope Course - Codecademy  
+ - Learn Intermediate **Python 3**: Functions, Namespaces, and Scope Course - Codecademy  
    [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/15702a4b792847e1a90f59e2ecac7a97)
 
- - Learn the Command Line Course - Codecademy  
+ - How to Clean Data with **Python** Course - Codecademy  
+   [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/e773a003314c1be60da8388a90a77e78)
+
+ - Learn **SQL** Course - Codecademy  
+   [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/042a4e5884e3eb6ea1f2a12be6abb851)
+
+ - Analyze data with **SQL** Skill Path - Codecademy  
+   [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/5cafb2d937090210d7df3652)
+   
+ - Analyze Business Metrics with **SQL** Course - Codecademy
+   [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/df5cd23425d43d23a967efebf18f5a8e)
+
+ - Transform Tables with **SQL** Course- Codecademy
+   [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/e5a7d252b2274abca4ea306d5fa4b4b6)
+
+ - Learn the **Command Line** Course - Codecademy  
    [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
+
+ - Learn **Tableau** for Data Visualization Course - Codecademy  
+   [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/bb909db0a89b47a59d9bf08a039e28ad)
+
+
+   
+   
 
 📫 **How to find me**:  
    [LinkedIn](https://www.linkedin.com/in/nikita-nefedov/)
