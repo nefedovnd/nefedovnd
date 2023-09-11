@@ -47,11 +47,11 @@
  - Analyze data with **SQL** Skill Path - Codecademy  
    [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/5cafb2d937090210d7df3652)
    
- - Analyze Business Metrics with **SQL** Course - Codecademy
-   [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/df5cd23425d43d23a967efebf18f5a8e)
-
- - Transform Tables with **SQL** Course- Codecademy
+ - Transform Tables with **SQL** Course - Codecademy  
    [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/e5a7d252b2274abca4ea306d5fa4b4b6)
+
+ - Analyze Business Metrics with **SQL** Course - Codecademy  
+   [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/df5cd23425d43d23a967efebf18f5a8e)
 
  - Learn the **Command Line** Course - Codecademy  
    [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
