@@ -35,6 +35,9 @@
  - **Data Science** Foundations Skill Path - Codecademy  
    [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/738a7262ff2b4a49b062c25482dc2549)
 
+ - Intro to Machine Learning Course - Codecademy  
+   [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/3280edcd0d1bd827ba63f80f8eef4098)
+
  - Learn Intermediate **Python 3**: Functions, Namespaces, and Scope Course - Codecademy  
    [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/15702a4b792847e1a90f59e2ecac7a97)
 
