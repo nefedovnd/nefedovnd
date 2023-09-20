@@ -15,20 +15,24 @@
  - Python
  - SQL
  - Machine learning
+ - Deep learning
  - Microsoft Excel
  - Google Sheets
  - Bash
  - Tableau
   
 🐍 **Projects with Python:**
+ - Heart Failure Prediction: [see](https://github.com/nefedovnd/Heart-Failure-Prediction) 
+   *Project for Codecademy Deep Learning course.*
+
  - Biodiversity in U.S. National Parks: [see](https://github.com/nefedovnd/Biodiversity_in_US_national_parks)  
-   *Final portfolio project of Codecademy Data Science course.*
+   *Final portfolio project for Codecademy Data Science course.*
 
  - Life expectancy and GDP: [see](https://github.com/nefedovnd/Life_expectancy_and_GDP)   
-   *Second portfolio project of Codecademy Data Science course.*
+   *Second portfolio project for Codecademy Data Science course.*
 
  - U.S. medical insurance costs analysis: [see](https://github.com/nefedovnd/US_medical_insurance_costs)  
-   *First portfolio project of Codecademy Data Science course.* 
+   *First portfolio project for Codecademy Data Science course.* 
 
 📚 **Courses and Certifications:**
 
