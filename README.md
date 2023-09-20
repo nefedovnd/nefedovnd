@@ -22,11 +22,9 @@
  - Tableau
   
 🐍 **Projects with Python:**
- - Heart Failure Prediction: [see](https://github.com/nefedovnd/Heart-Failure-Prediction)
- - *Project for Codecademy Deep Learning course.*
 
- - Biodiversity in U.S. National Parks: [see](https://github.com/nefedovnd/Biodiversity_in_US_national_parks)  
-   *Final portfolio project for Codecademy Data Science course.*
+ - Heart Failure Prediction: [see](https://github.com/nefedovnd/Heart-Failure-Prediction)  
+   *Project for Codecademy Deep Learning course.*
    
  - Biodiversity in U.S. National Parks: [see](https://github.com/nefedovnd/Biodiversity_in_US_national_parks)  
    *Final portfolio project for Codecademy Data Science course.*
