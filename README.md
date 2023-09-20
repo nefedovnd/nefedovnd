@@ -16,6 +16,7 @@
  - SQL
  - Machine learning
  - Deep learning
+ - TensorFlow
  - Microsoft Excel
  - Google Sheets
  - Bash
@@ -24,7 +25,7 @@
 🐍 **Projects with Python:**
 
  - Heart Failure Prediction: [see](https://github.com/nefedovnd/Heart-Failure-Prediction)  
-   *Project for Codecademy Deep Learning course.*
+   *Project for Codecademy Build Deep Learning Models with TensorFlow Skill Path.*
    
  - Biodiversity in U.S. National Parks: [see](https://github.com/nefedovnd/Biodiversity_in_US_national_parks)  
    *Final portfolio project for Codecademy Data Science course.*
