@@ -24,6 +24,9 @@
   
 🐍 **Projects with Python:**
 
+ - Classify X-rays With Machine Learning: [see](https://github.com/nefedovnd/Classify-X-rays-With-Machine-Learning)  
+   *Project for Codecademy Build Deep Learning Models with TensorFlow Skill Path.*
+
  - Heart Failure Prediction: [see](https://github.com/nefedovnd/Heart-Failure-Prediction)  
    *Project for Codecademy Build Deep Learning Models with TensorFlow Skill Path.*
    
