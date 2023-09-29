@@ -24,9 +24,12 @@
   
 🐍 **Projects with Python:**
 
+ - Forest cover classification with deep learning: [see](https://github.com/nefedovnd/Forest-cover-classification-with-deep-learning)  
+   *This is a final portfolio project for Codecademy's Build Deep Learning Models with TensorFlow Skill Path.*
+ 
  - Classify X-rays With Machine Learning: [see](https://github.com/nefedovnd/Classify-X-rays-With-Machine-Learning)  
    *Project for Codecademy Build Deep Learning Models with TensorFlow Skill Path.*
-
+ 
  - Heart Failure Prediction: [see](https://github.com/nefedovnd/Heart-Failure-Prediction)  
    *Project for Codecademy Build Deep Learning Models with TensorFlow Skill Path.*
    
@@ -40,6 +43,9 @@
    *First portfolio project for Codecademy Data Science course.* 
 
 📚 **Courses and Certifications:**
+
+ - **Build Deep Learning Models with TensorFlow** Skill Path - Codecademy  
+   [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/5f85c4b9c431a800138a60e0)
 
  - **Data Science** Foundations Skill Path - Codecademy  
    [certificate](https://www.codecademy.com/profiles/nefedovn/certificates/738a7262ff2b4a49b062c25482dc2549)
