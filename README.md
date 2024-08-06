@@ -3,7 +3,7 @@
 
 👀 **About Me in 30 secs:** 
 
- - Passioned about Data Analysis and strive for new knowledge
+ - Passioned about data analysis and strive for new knowledge
 
  - Professionally experienced in financial control and organization optimization data-analysis
 
