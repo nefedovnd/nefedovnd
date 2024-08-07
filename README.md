@@ -14,8 +14,7 @@
 
  - Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, TensorFlow)
  - SQL (MySQL, PostgreSQL)
- - Microsoft Excel
- - Google Sheets
+ - Microsoft Excel / Google Sheets
  - Bash
  - Tableau
   
